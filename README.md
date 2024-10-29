@@ -18,9 +18,9 @@ A web application built with **React** and backed by **Firebase**, following the
 A demonstration of a fully automated **CI/CD pipeline** that deploys Python code to an **AWS Lambda function** using **AWS CDK**. A hands-on project showcasing how to streamline cloud development workflows.
 [Explore the project here](https://github.com/jackma-00/cicd-aws-demo)
 
-### 3. Kubeflow MLOps Project 🤖
-A proof-of-concept using the **Kubeflow MLOps platform**, integrating pipelines and components to support the end-to-end lifecycle of machine learning models.
-[Discover more here](https://github.com/jackma-00/kubeflow-mlops-project)
+### 3. Real-Time Sentiment Analysis 🤖
+This project leverages Apache Spark, Kafka, and Hugging Face's Transformers for real-time sentiment analysis of political tweets. It’s packaged in a Docker Compose setup for easy demonstration.
+[Discover more here](https://github.com/jackma-00/RealTimeSentiment)
 
 ---
 
